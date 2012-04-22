@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>text</key>
+		<string>D3D Fullscreen</string>
+		<key>action</key>
+		<string>[CTRL+F]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Exit D3D Fullscreen</string>
+		<key>action</key>
+		<string>[CTRL+C]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Always On Top</string>
+		<key>action</key>
+		<string>[ALT+1]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Zoom 50%</string>
+		<key>action</key>
+		<string>[ALT+1]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Zoom 100%</string>
+		<key>action</key>
+		<string>[ALT+2]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Zoom 200%</string>
+		<key>action</key>
+		<string>[ALT+3]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Zoom Auto Fit</string>
+		<key>action</key>
+		<string>[ALT+4]</string>
+	</dict>
+	<dict>
+		<key>text</key>
+		<string>Tearing Test</string>
+		<key>action</key>
+		<string>[CTRL+T]</string>
+	</dict>
+</array>
+</plist>

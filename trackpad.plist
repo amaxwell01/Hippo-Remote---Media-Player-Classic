@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appname</key>
+	<string>Media Player Classic</string>
+	<key>buttons</key>
+	<array>
+		<dict>
+			<key>action</key>
+			<string>[CTRL+O]</string>
+			<key>image</key>
+			<string>cloud.png</string>
+			<key>text</key>
+			<string>Open</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>OVERLAY:navpad</string>
+			<key>image</key>
+			<string>arrowpad.png</string>
+			<key>text</key>
+			<string>NavPad</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>OVERLAY:playpad</string>
+			<key>image</key>
+			<string>playpad.png</string>
+			<key>text</key>
+			<string>PlayPad</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[O]</string>
+			<key>image</key>
+			<string>options.png</string>
+			<key>text</key>
+			<string>Options</string>
+		</dict>
+		<dict>
+			<key>action</key>
+			<string>[MACROS]</string>
+			<key>image</key>
+			<string>actions.png</string>
+			<key>text</key>
+			<string>More</string>
+		</dict>
+	</array>
+</dict>
+</plist>
